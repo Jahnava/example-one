@@ -1,24 +1,23 @@
-#container {
-  /* width: 50%; */
-}
-
-
+/* logo and nav bar */
 #main {
   display: block;
   position: absolute;
-  /* width: 50%;
-  max-width: 30px;
-  min-width: 30px;
-  height: 50%;
-  max-height: 30px;
-  min-height: 30px; */
   left: 15%;
   top: -3%;
-  /* overflow: hidden; */
 }
-img {
+#logo-img {
   margin: 0 auto;
   width: 30%;
   height: 30%;
   padding: 3%;
+  /* padding-top: 15%; */
+}
+
+.top-nav{
+  background-color: #254666;
+  margin-top: 1%;
+}
+
+.second-nav{
+  padding-bottom: 1%;
 }
