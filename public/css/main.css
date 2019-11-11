@@ -2,8 +2,8 @@
 #main {
   display: block;
   position: absolute;
-  left: 15%;
-  top: -3%;
+  left: 5%;
+  top: -1%;
 }
 #logo-img {
   margin: 0 auto;
@@ -78,7 +78,7 @@
 .content {
   background-color: lightgrey;
   margin-top: 1%;
-  margin-bottom: 3%;
+  margin-bottom: 2%;
 }
 
 .content-inner{
@@ -88,3 +88,12 @@
 .comp-pic{
   border: 1px solid grey;
 }
+
+/* collage */
+
+.collage{
+  margin-top: 3%;
+  margin-bottom: 3%;
+}
+
+/* review carousel */
