@@ -115,7 +115,7 @@ section#home-reviews{
 section#home-reviews h2{
 	font-size: 1.75rem;
 	text-transform: uppercase;
-	margin-bottom: 50px;
+	margin-bottom: 1%;
 }
 .fa-quote-left{
 	padding-right: 10px;
@@ -128,4 +128,18 @@ section#home-reviews p{
 }
 .stars{
 	color: #BB8B41;
+}
+
+/* contact */
+
+.box{
+  width: 50%;
+  float: inherit;
+}
+
+/* footer */
+
+.page-footer{
+  background-color: darkblue;
+  height: 30%;
 }
