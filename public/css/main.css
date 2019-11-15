@@ -38,7 +38,8 @@
 .bottom-left {
   position: absolute;
   bottom: 8px;
-  left: 16px;
+  left: 25%;
+  /* font-size: 50%; */
 }
 
 /*banner & banner button*/
@@ -63,7 +64,7 @@
   background-color: blue;
   color: white;
   font-size: 16px;
-  padding: 10px 74px;
+  /* padding: 10px 74px; */
   border: none;
   cursor: pointer;
   border-radius: 5px;
@@ -153,7 +154,7 @@ section#home-reviews p{
 /* footer */
 
 .page-footer{
-  background-color: darkblue;
+  background-color: #254666;
   height: 30%;
   color:white;
 }
